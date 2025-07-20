@@ -74,28 +74,17 @@
 							<div class="st__main__menu">
 								<nav class="main__menu" id="mobile-menu">
 									<ul>
-										<li><a href="{{ route('home') }}"> Home</i> </a>
-											<ul class="sub__menu">
-												<li><a href="{{ route('home-one') }}">Home One</a></li>
-												<li><a href="{{ route('home-two') }}">Home Two</a></li>
-												<li><a href="{{ route('home-dark') }}">Home Dark</a></li>
-												<li><a href="index-two-dark.html">Home Dark Two</a></li>
-												<li><a href="{{ route('home-three') }}">Home Three</a></li>
-												<li><a href="{{ route('air-freight') }}">Air Freight</a></li>
-												<li><a href="{{ route('road-freight') }}"> Road Freight </a></li>
-											</ul>
-										</li>
-										<li><a href="{{ route('home') }}"> About</i> </a>
-											<ul class="sub__menu">
-												<li><a href="{{ route('home') }}">About Light</a></li>
-												<li><a href="about-us-dark.html">About Dark</a></li>
-											</ul>
-										</li>
 										<li><a href="{{ route('service') }}"> Services</i> </a>
-											<ul class="sub__menu">
+											{{-- <ul class="sub__menu">
 												<li><a href="{{ route('service') }}">Service Light </a></li>
 												<li><a href="service-dark.html">Service Dark </a></li>
 												<li><a href="{{ route('service-details') }}">Service Details</a></li>
+											</ul> --}}
+										</li>
+                                        <li><a href="{{ route('home') }}"> About</i> </a>
+											<ul class="sub__menu">
+												<li><a href="{{ route('home') }}">About Light</a></li>
+												<li><a href="about-us-dark.html">About Dark</a></li>
 											</ul>
 										</li>
 										<li><a href="#"> Pages</i> </a>

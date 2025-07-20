@@ -22,13 +22,13 @@
 					</div>
 					<div class="st__service__content">
 						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
+						<h2> <a href="{{ route('service-details') }}"> Transport by Road </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
@@ -39,13 +39,13 @@
 					</div>
 					<div class="st__service__content">
 						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
+						<h2> <a href="{{ route('service-details') }}"> Safety Garunteed </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
@@ -56,9 +56,9 @@
 					</div>
 					<div class="st__service__content">
 						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<h2> <a href="{{ route('service-details') }}"> Managing logistics for </a> </h2>
 						<div class="st__service__btn">
-							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
+							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
