@@ -11,7 +11,7 @@
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
 						<h1>Experience The Best <br> Logistic & Transport</h1>
-						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt 
+						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt
 							eget. Dui vivamus arcu felis bibendum ut tristique et egestas quis.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
@@ -27,7 +27,7 @@
 					<div class="slider-content">
 						<h5>We Specialise in the transportation</h5>
 						<h1>Experience The Best <br> Logistic & Transport</h1>
-						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt 
+						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt
 							eget. Dui vivamus arcu felis bibendum ut tristique et egestas quis.</p>
 						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
@@ -47,43 +47,7 @@
 					</div>
 					<div class="st__feature__content">
 						<h2>Transparent Pricing</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
-							<span class="line"></span>
-					</div>
-				</div>				
-				<div class="st__feature__box wow fadeInUp">
-					<div class="st__feature__icon">
-						<img src="assets/images/feature/icon2.png" alt="">
-					</div>
-					<div class="st__feature__content">
-						<h2>Packaging Distri</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
-							<span class="line"></span>
-					</div>
-				</div>				
-				<div class="st__feature__box wow fadeInUp">
-					<div class="st__feature__icon">
-						<img src="assets/images/feature/icon3.png" alt="">
-					</div>
-					<div class="st__feature__content">
-						<h2>Real Time Tracking</h2>
-						<p>Appropriately enhance principle-cent 
-							standards in platforms. Credibly orch
-							popular services.</p>
-							<span class="line"></span>
-					</div>
-				</div>				
-				<div class="st__feature__box wow fadeInUp">
-					<div class="st__feature__icon">
-						<img src="assets/images/feature/icon4.png" alt="">
-					</div>
-					<div class="st__feature__content">
-						<h2>Warehoues Storage</h2>
-						<p>Appropriately enhance principle-cent 
+						<p>Appropriately enhance principle-cent
 							standards in platforms. Credibly orch
 							popular services.</p>
 							<span class="line"></span>
@@ -94,8 +58,44 @@
 						<img src="assets/images/feature/icon2.png" alt="">
 					</div>
 					<div class="st__feature__content">
-						<h2>Packaging Distri</h2>
-						<p>Appropriately enhance principle-cent 
+						<h2>Load Matching & Acquisition</h2>
+						<p>Appropriately enhance principle-cent
+							standards in platforms. Credibly orch
+							popular services.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon3.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Real Time Tracking</h2>
+						<p>Appropriately enhance principle-cent
+							standards in platforms. Credibly orch
+							popular services.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon4.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Warehoues Storage</h2>
+						<p>Appropriately enhance principle-cent
+							standards in platforms. Credibly orch
+							popular services.</p>
+							<span class="line"></span>
+					</div>
+				</div>
+				<div class="st__feature__box wow fadeInUp">
+					<div class="st__feature__icon">
+						<img src="assets/images/feature/icon2.png" alt="">
+					</div>
+					<div class="st__feature__content">
+						<h2>Route Optimization</h2>
+						<p>Appropriately enhance principle-cent
 							standards in platforms. Credibly orch
 							popular services.</p>
 							<span class="line"></span>
@@ -123,10 +123,10 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>Logistics Solutions That 
+						<h1>Logistics Solutions That
 							Deliver Excellence</h1>
-							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
-								accept payments from ctly customers ctly securely. stions enable businesses 
+							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to
+								accept payments from ctly customers ctly securely. stions enable businesses
 								to accept payments from ctly customers ctly securely.</p>
 					</div>
 					<div class="st__about__content wow fadeInUp">
@@ -136,7 +136,7 @@
 							</div>
 							<div class="st__about__iconcontent">
 								<h3>Real-Time Tracking</h3>
-								<p>There are many variations of passages of lorem <br> 
+								<p>There are many variations of passages of lorem <br>
 									suffered alteration in some form, by injected</p>
 							</div>
 						</div>
@@ -180,14 +180,14 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Transport by Road </a> </h2>
+						<span> BenchMarking </span>
+						<h2> <a href="service-details.html">  Load Matching & Acquisition</a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
@@ -197,14 +197,14 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
+						<span> Track </span>
+						<h2> <a href="service-details.html"> Route Optimization </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
@@ -214,8 +214,8 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Managing logistics for </a> </h2>
+						<span> Legal </span>
+						<h2> <a href="service-details.html"> Administrative & Paperwork Handling </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -254,7 +254,7 @@
 						<i class="bi bi-quote"></i>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
@@ -273,7 +273,7 @@
 						<i class="bi bi-quote"></i>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__testimonial__box wow fadeInUp p-relative">
 					<div class="st__testi__inner d-flex align-items-center">
@@ -320,19 +320,19 @@
 										<input type="email" name="email" placeholder="Email Here*">
 										<i class="bi bi-envelope-open"></i>
 									</div>
-								</div>					
+								</div>
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
 										<input type="text" name="text" placeholder="Weight. Kg*">
 										<i class="bi bi-bag"></i>
 									</div>
-								</div>					
+								</div>
 								<div class="col-lg-6 wow fadeInUp">
 									<div class="st__form__box p-relative">
 										<input type="text" name="text" placeholder="Distance. km*">
 										<i class="bi bi-geo-alt-fill"></i>
 									</div>
-								</div>					
+								</div>
 								<div class="col-lg-12 wow fadeInUp">
 									<div class="st__form__box p-relative">
 										<select>
@@ -394,7 +394,7 @@
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="row mt">
 					<div class="col-lg-12">
@@ -410,7 +410,7 @@
 								</div>
 							</div>
 						</div>
-					</div>					
+					</div>
 					<div class="col-lg-12 pmt">
 						<div class="st__project__single p-relative">
 							<div class="st__project__thumb">
@@ -478,7 +478,7 @@
 						<a href="#"> Order Now </a>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__pricing__box wow fadeInUpBig">
 					<div class="st__pricing__content">
@@ -502,7 +502,7 @@
 						<a href="#"> Order Now </a>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__pricing__box wow fadeInUpBig">
 					<div class="st__pricing__content">
@@ -607,7 +607,7 @@
 						<a class="st_blog_btn" href="#"> Read More <i class="bi bi-arrow-up-short"></i></a>
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__blog__single__box wow fadeInUp">
 					<div class="st__blog__content">
@@ -634,7 +634,7 @@
 						<img src="assets/images/blog/b2.jpg" alt="">
 					</div>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="st__blog__single__box wow fadeInUp">
 					<div class="st__blog__thumb">
@@ -666,7 +666,7 @@
 	</div>
 </div>
 <!-- ST Brand Area -->
-<div class="st-brand-area pb-120">
+{{-- <div class="st-brand-area pb-120">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -681,5 +681,5 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> --}}
 @endsection

@@ -4,7 +4,7 @@
 		<div class="row ft_borer">
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
-					<a href="#"> <img src="assets/images/logo/ts_logo.png" alt=""> </a>
+					<a href="#"> <img src="assets/images/logo/logo2.png" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
 					<p>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus</p>
@@ -28,7 +28,7 @@
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> News & Media </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Our Projects </a>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Our Service </h2>
@@ -40,7 +40,7 @@
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Real Time Tracking </a>
 					<a href="#"> <i class="bi bi-chevron-double-right"></i> Transparent Pricing </a>
 				</div>
-			</div>			
+			</div>
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Newsletter </h2>
@@ -55,7 +55,7 @@
 		<div class="row">
 			<div class="col-lg-12 wow fadeInUpBig">
 				<div class="st__footer__copyright text-center">
-					<span> © Copyrights 2024 <a href="#"> sTheme-IT </a> All rights reserved. </span>
+					<span> © Copyrights 2025 <a href="#"> Starlane Dispatching </a> All rights reserved. </span>
 				</div>
 			</div>
 		</div>

@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="st__section__title mb-50 text-center wow fadeInUp">
-					<h5> Types of Loglstice </h5>
+					<h5> Types of Logistics </h5>
 					<span class="circle"></span>
 					<h1>Popular Logistics Services</h1>
 				</div>
@@ -21,8 +21,8 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="{{ route('service-details') }}"> Transport by Road </a> </h2>
+						<span> BenchMarking </span>
+						<h2> <a href="{{ route('service-details') }}"> Load Matching & Acquisition</a> </h2>
 						<div class="st__service__btn">
 							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -38,8 +38,8 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="{{ route('service-details') }}"> Safety Garunteed </a> </h2>
+						<span> Track </span>
+						<h2> <a href="{{ route('service-details') }}"> Route Optimization </a> </h2>
 						<div class="st__service__btn">
 							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>
@@ -55,8 +55,8 @@
 						</div>
 					</div>
 					<div class="st__service__content">
-						<span> Tracking </span>
-						<h2> <a href="{{ route('service-details') }}"> Managing logistics for </a> </h2>
+						<span> Legal </span>
+						<h2> <a href="{{ route('service-details') }}"> Administrative & Paperwork Handling </a> </h2>
 						<div class="st__service__btn">
 							<a href="{{ route('service-details') }}"> <i class="bi bi-arrow-right"></i> </a>
 						</div>

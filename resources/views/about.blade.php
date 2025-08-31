@@ -14,11 +14,14 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>Logistics Solutions That 
-							Deliver Excellence</h1>
-							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to 
-								accept payments from ctly customers ctly securely. stions enable businesses 
-								to accept payments from ctly customers ctly securely.</p>
+						<h1>Your Trusted Partner in Nationwide Truck Dispatching</h1>
+							<p>
+                                Star Lane Dispatching Services is a premier freight dispatching company serving all 48 states across the U.S.
+                                Our mission is to deliver reliable, efficient, and cost-effective dispatch solutions tailored for owner-operators and
+                                trucking companies. We specialize in streamlining operations, optimizing routes, and boosting profitability for our clients.
+                                Backed by advanced technology, exceptional customer service, and deep industry expertise,
+                                Star Lane Dispatching Services stands as a trusted partner in the American logistics industry.
+                            </p>
 					</div>
 					<div class="st__about__content wow fadeInUp">
 						<div class="st__about__iconbox mt-35 d-flex">
@@ -27,7 +30,7 @@
 							</div>
 							<div class="st__about__iconcontent">
 								<h3>Real-Time Tracking</h3>
-								<p>There are many variations of passages of lorem <br> 
+								<p>There are many variations of passages of lorem <br>
 									suffered alteration in some form, by injected</p>
 							</div>
 						</div>

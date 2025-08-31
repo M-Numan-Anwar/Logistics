@@ -30,16 +30,63 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;display=swap');
 
 :root {
-    --st-theme-color-one: #f68b21;
-    --st-theme-color-two: #003d4d;
+    --st-theme-color-one: #C8102E;
+    /* Red from logo */
+    --st-blue-primary: #2E5894;
+    /* Royal Blue (from stars area) */
+    --st-blue-deep: #0B1E3C;
+    /* Deep Navy (from truck/text) */
+
+    --st-theme-color-two: var(--st-blue-deep);
+    /* Main navy (e.g., header/nav background) */
+    --st-header-meta-icon-bg: var(--st-blue-primary);
+    /* Accent blue for icons, hover, etc. */
+
     --st-theme-body-color: #525459;
-    --st-theme-color-white: #fff;
+    /* Neutral body text */
+    --st-theme-color-white: #ffffff;
+
     --st-testi-bg: #1d1d1d;
-    --st-header-bg: #d1e4ea;
-    --st-bg: #f5f4f9;
-    --st-team-color: #f4f4f9;
-    --st-header-meta-icon-bg: #054c60;
-    --st-project-bg: #ebebeb;
+    /* Testimonial section (unchanged for contrast) */
+    --st-header-bg: #F5F5F5;
+    /* Light header background */
+    --st-bg: #F8F8F8;
+    /* Light background for sections */
+    --st-team-color: #F8F8F8;
+    --st-project-bg: #E5E5E5;
+
+    /* Optional highlight */
+    --st-accent-gold: #FFC72C;
+    /* Subtle attention grabber */
+
+    /* Dark theme (kept intact) */
+    --st-theme-dark-color: #171717;
+    --st-theme-dark-color-two: #202020;
+    --st-theme-dark-color-three: #1f1f1f;
+    --st-theme-dark-color-four: #262626;
+    --st-theme-dark-color-text: #9f9f9f;
+    --st-theme-dark-bg2: #090d16;
+    --st-theme-dark-bg3: #070a11;
+    --st-theme-dark-bg4: #070e16;
+    --st-theme-dark-bg5: #0f191b;
+    --st-theme-dark-bg6: #091018;
+
+    --st-theme-rgba: rgba(255, 255, 255, 0.2);
+    --st-theme-sidebar-bg: #f7f6f1;
+}
+
+/* :root {
+    --st-theme-color-one: #C8102E;
+    --st-theme-color-two: #00205B;
+    --st-theme-body-color: #525459;
+    --st-theme-color-white: #ffffff;
+    --st-testi-bg: #1d1d1d;
+    --st-header-bg: #F5F5F5;
+    --st-bg: #F8F8F8;
+    --st-team-color: #F8F8F8;
+    --st-header-meta-icon-bg: #00205B;
+    --st-project-bg: #E5E5E5;
+    --st-accent-gold: #FFC72C;
     --st-theme-dark-color: #171717;
     --st-theme-dark-color-two: #202020;
     --st-theme-dark-color-three: #1f1f1f;
@@ -52,7 +99,7 @@
     --st-theme-dark-bg6: #091018;
     --st-theme-rgba: rgba(255, 255, 255, 0.2);
     --st-theme-sidebar-bg: #f7f6f1;
-}
+} */
 
 /* Custom Container CSS */
 .container {
@@ -258,7 +305,7 @@
     left: -44px;
     background: var(--st-theme-color-two);
     width: 26%;
-    height: 122px;
+    height: 140px;
     z-index: 1;
     transform: skewX(-36deg);
 }
@@ -407,7 +454,7 @@
     position: absolute;
     top: 71px;
     left: 0;
-    width: 250px;
+    width: 300px;
     background: var(--st-theme-color-two);
     text-align: left;
     padding: 20px 0 20px 20px;
@@ -433,7 +480,7 @@
 
 .main__menu ul li .sub__menu li {
     display: block;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     overflow: hidden;
 }
 
@@ -441,7 +488,7 @@
     margin-right: 0;
     color: var(--st-theme-color-white);
     display: inline-block;
-    font-size: 16px;
+    font-size: 17px;
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -483,7 +530,7 @@
     z-index: 9;
     transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
     background-color: var(--st-header-bg);
-    padding: 25px 0;
+    padding: 18px 0;
 }
 
 .st-header-menu-area.style2 .is-sticky {
@@ -496,7 +543,7 @@
 }
 
 .is-sticky .st__logo__overlay::before {
-    height: 122px;
+    height: 140px;
 }
 
 .is-sticky .st-header-logo::before {

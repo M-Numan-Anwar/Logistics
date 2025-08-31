@@ -9,34 +9,24 @@
 			<div class="col-lg-8">
 				<ul class="my-accordion">
 					<li>
-						<h2> 1. Is it Full Transport & Logistics Company?</h2>
-						<p> The time it takes to repair a roof depends on the extent of the damage. 
-							For minor repairs, it might take an hour or two. For significant repairs, 
-							A or team might be at your home for half a day. </p>
-					</li>					
+						<h2> 1. Do I need my own MC and DOT authority to work with you?</h2>
+						<p> Yes, we work with carriers who have active authority, valid insurance and  aW-9 Form. </p>
+					</li>
 					<li>
-						<h2> 2. How to Create my Project in Company?</h2>
-						<p> The time it takes to repair a roof depends on the extent of the damage. 
-							For minor repairs, it might take an hour or two. For significant repairs, 
-							A or team might be at your home for half a day. </p>
-					</li>					
+						<h2> 2. What kind of trucks do you dispatch for?</h2>
+						<p> We work with Dry Vans, Reefers, Flatbeds, Hotshots, and Box Trucks. </p>
+					</li>
 					<li>
-						<h2> 3. How to Work in Process of Transport Company?</h2>
-						<p> The time it takes to repair a roof depends on the extent of the damage. 
-							For minor repairs, it might take an hour or two. For significant repairs, 
-							A or team might be at your home for half a day. </p>
-					</li>					
+						<h2> 3. How do you find loads?</h2>
+						<p> We use our network of brokers, top-rated load boards and real-time market data to find the highest-paying freight. </p>
+					</li>
 					<li>
-						<h2> 4. What warranties do I have for installation? </h2>
-						<p> The time it takes to repair a roof depends on the extent of the damage. 
-							For minor repairs, it might take an hour or two. For significant repairs, 
-							A or team might be at your home for half a day. </p>
-					</li>					
+						<h2> 4. What kind of trucks do you dispatch for ? </h2>
+						<p> We work with dry vans, Reefers, Flatbeds, StepDeck, Car Haulers, Box Trucks and Hotshots. </p>
+					</li>
 					<li>
-						<h2> 5. How to turn visitors into contributors! </h2>
-						<p> The time it takes to repair a roof depends on the extent of the damage. 
-							For minor repairs, it might take an hour or two. For significant repairs, 
-							A or team might be at your home for half a day. </p>
+						<h2> 5. Do you require a contract prior to initiaion of services ? </h2>
+						<p> Yes, our services do require a formal agreement to ensure clarity and compliance.However, for the client satisfaction, we’re happy to offer a one‑week free trial of our service package. </p>
 					</li>
 				</ul>
 			</div>
