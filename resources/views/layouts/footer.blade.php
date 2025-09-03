@@ -7,7 +7,7 @@
 					<a href="#"> <img src="assets/images/logo/logo2.png" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
-					<p>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus</p>
+					<p>Experience The Best Dispatching Services with Star Lane LLC</p>
 				</div>
 				<div class="st__social__icon">
 					<h2>Social Info</h2>
@@ -44,7 +44,7 @@
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Newsletter </h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+					{{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p> --}}
 				</div>
 				<div class="st__footer__subscribe__form p-relative mt-45">
 					<input type="email" name="email" placeholder="Email Address">

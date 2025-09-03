@@ -9,11 +9,10 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="slider-content">
-						<h5>We Specialise in the transportation</h5>
-						<h1>Experience The Best <br> Logistic & Transport</h1>
-						<p>Cursus in hac habitasse platea dictumst. Interdum consectetur libero id faucibus nisl tincidunt
-							eget. Dui vivamus arcu felis bibendum ut tristique et egestas quis.</p>
-						<a class="st__btn mt-40" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
+						<h5>We Specialise in Dispatching Services</h5>
+						<h1>Experience The Best Dispatching <br> Services with Star Lane LLC</h1>
+						<p>At Star Lane Dispatching, we do more than just find loads, we become your success partner, working around the clock to keep your trucks moving and your business growing.</p>
+						<a class="st__btn mt-40" href="{{ route('service') }}"> More Details <i class="bi bi-arrow-right"></i> </a>
 					</div>
 				</div>
 			</div>
@@ -123,11 +122,8 @@
 				<div class="st__about__wrap">
 					<div class="st__section__title wow fadeInUp">
 						<h5> About The Company </h5>
-						<h1>Logistics Solutions That
-							Deliver Excellence</h1>
-							<p>Payment solutions enable businesses to accept payments Payment stions enable businesses to
-								accept payments from ctly customers ctly securely. stions enable businesses
-								to accept payments from ctly customers ctly securely.</p>
+						<h1>We Specialise in Dispatching Services</h1>
+							<p>Experience The Best Dispatching Services with Star Lane LLC</p>
 					</div>
 					<div class="st__about__content wow fadeInUp">
 						<div class="st__about__iconbox mt-35 d-flex">
@@ -136,12 +132,12 @@
 							</div>
 							<div class="st__about__iconcontent">
 								<h3>Real-Time Tracking</h3>
-								<p>There are many variations of passages of lorem <br>
+								<p>There are many variations of passages of trucking <br>
 									suffered alteration in some form, by injected</p>
 							</div>
 						</div>
 						<div class="st__about__btn mt-50">
-							<a class="st__btn2" href="service-details.html"> More Details <i class="bi bi-arrow-right"></i> </a>
+							<a class="st__btn2" href="{{ route('about') }}"> More Details <i class="bi bi-arrow-right"></i> </a>
 						</div>
 						<div class="st__about__infometa">
 							<div class="st__iconmeta__inner d-flex">
@@ -438,92 +434,6 @@
 						<div class="st__project__btn">
 							<a href="project-details.html"> Details <i class="bi bi-arrow-right"></i></a>
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- ST Pricing Area -->
-<div class="st-pricing-area pb-100">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="st__section__title mb-50 text-center wow fadeInUp">
-					<h5> Pricing & Plans </h5>
-					<span class="circle"></span>
-					<h1>Effective & Affordable Plans</h1>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Basic Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 65 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Standard Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 79 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6">
-				<div class="st__pricing__box wow fadeInUpBig">
-					<div class="st__pricing__content">
-						<h4>Premium Plan</h4>
-						<div class="st__price">
-							<span class="st-price"> 93 </span>
-							<span class="st-dollar"> $ </span>
-							<span class="st-month">/ Per Month</span>
-						</div>
-					</div>
-					<div class="st__pricing__body">
-						<ul>
-							<li> 1 warehouse </li>
-							<li> Custom business rules </li>
-							<li> Real-time rate shopping </li>
-							<li> 100 freight shipments </li>
-							<li> Any time 24/7 hour support </li>
-						</ul>
-					</div>
-					<div class="st__pricing__btn mt-40">
-						<a href="#"> Order Now </a>
 					</div>
 				</div>
 			</div>
